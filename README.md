@@ -1,10 +1,9 @@
-# CSE330
-466721 Zachary Young
+# Gulp
+By Zachary Young, Daniel Kwon
 
-435194 Daniel Kwon
+Functionalities : 
 
-Creative Portion (We did 4+ features for 20 pts)
-
+- Basic food review postings enabled per menus at restaurants.
 - Utilized chart.js framework to display bar graph distribution of star ratings
 - Completed delete functionality for individual reviews
 - Implemented SCSS to style webpage
