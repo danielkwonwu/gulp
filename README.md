@@ -8,6 +8,6 @@ Functionalities :
 - Completed delete functionality for individual reviews
 - Implemented SCSS to style webpage
 - Implemented like functionality for individual reviews
-- Implemented geolocation functionality using 2 Google APIS (geolocation and static maps)
+- Implemented geolocation functionality using 2 Google APIs (geolocation and static maps)
 
 Note: w3c validation works except for fact that some of our third party apis/frameworks set off some errors/warning
